@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Winter-ShopSite-Template/static/css/main.42ddc625.chunk.css",
+    "main.js": "/Winter-ShopSite-Template/static/js/main.bbd1c553.chunk.js",
+    "main.js.map": "/Winter-ShopSite-Template/static/js/main.bbd1c553.chunk.js.map",
+    "runtime-main.js": "/Winter-ShopSite-Template/static/js/runtime-main.1825239b.js",
+    "runtime-main.js.map": "/Winter-ShopSite-Template/static/js/runtime-main.1825239b.js.map",
+    "static/js/2.385b9b86.chunk.js": "/Winter-ShopSite-Template/static/js/2.385b9b86.chunk.js",
+    "static/js/2.385b9b86.chunk.js.map": "/Winter-ShopSite-Template/static/js/2.385b9b86.chunk.js.map",
+    "static/js/3.ddc0c80f.chunk.js": "/Winter-ShopSite-Template/static/js/3.ddc0c80f.chunk.js",
+    "static/js/3.ddc0c80f.chunk.js.map": "/Winter-ShopSite-Template/static/js/3.ddc0c80f.chunk.js.map",
+    "index.html": "/Winter-ShopSite-Template/index.html",
+    "static/css/main.42ddc625.chunk.css.map": "/Winter-ShopSite-Template/static/css/main.42ddc625.chunk.css.map",
+    "static/js/2.385b9b86.chunk.js.LICENSE.txt": "/Winter-ShopSite-Template/static/js/2.385b9b86.chunk.js.LICENSE.txt",
+    "static/media/1.a1e82247.jpg": "/Winter-ShopSite-Template/static/media/1.a1e82247.jpg",
+    "static/media/2.a14cd146.jpg": "/Winter-ShopSite-Template/static/media/2.a14cd146.jpg",
+    "static/media/3.6be15f7c.webp": "/Winter-ShopSite-Template/static/media/3.6be15f7c.webp",
+    "static/media/4.1ab5d64a.jpg": "/Winter-ShopSite-Template/static/media/4.1ab5d64a.jpg",
+    "static/media/5.3b60fe5c.webp": "/Winter-ShopSite-Template/static/media/5.3b60fe5c.webp",
+    "static/media/6.22d97a6a.jpg": "/Winter-ShopSite-Template/static/media/6.22d97a6a.jpg",
+    "static/media/Famale.a10187a8.jpg": "/Winter-ShopSite-Template/static/media/Famale.a10187a8.jpg",
+    "static/media/Foot.e7d5825d.jpg": "/Winter-ShopSite-Template/static/media/Foot.e7d5825d.jpg",
+    "static/media/Male.899504b4.jpg": "/Winter-ShopSite-Template/static/media/Male.899504b4.jpg",
+    "static/media/App.css": "/Winter-ShopSite-Template/static/media/banner_img.png.a7fc13b6.webp",
+    "static/media/footer-1.8b52d674.jpg": "/Winter-ShopSite-Template/static/media/footer-1.8b52d674.jpg",
+    "static/media/footer-2.95ed14af.jpg": "/Winter-ShopSite-Template/static/media/footer-2.95ed14af.jpg",
+    "static/media/footer-3.ca06c674.jpg": "/Winter-ShopSite-Template/static/media/footer-3.ca06c674.jpg",
+    "static/media/footer-4.5deca73d.jpg": "/Winter-ShopSite-Template/static/media/footer-4.5deca73d.jpg",
+    "static/media/footer-5.5ed183ae.jpg": "/Winter-ShopSite-Template/static/media/footer-5.5ed183ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1825239b.js",
+    "static/js/2.385b9b86.chunk.js",
+    "static/css/main.42ddc625.chunk.css",
+    "static/js/main.bbd1c553.chunk.js"
+  ]
+}
